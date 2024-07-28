@@ -1,0 +1,1 @@
+Welcome to the Amazon Clone repository! This project simulates the features and functionalities of Amazon's e-commerce platform, including user authentication, product listings, shopping cart, and payment processing.. This project is a simple, user-friendly University Website designed using only HTML and CSS.
